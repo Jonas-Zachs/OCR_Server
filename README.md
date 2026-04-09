@@ -61,4 +61,4 @@ Error responses:
 - OpenCV
 - Tesseract OCR
 - cpp-httplib
-(Dependencies should be installed automatically via vcpkg when building the application for the first time.)
+- (Dependencies should be installed automatically via vcpkg when building the application for the first time.)
