@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OCR_Server/OCR_Server.vcxproj" Id="00b4b337-b647-4e6e-9ede-9d11c89ba67a" />
+</Solution>

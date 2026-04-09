@@ -1,0 +1,8 @@
+{
+  "name": "ocr-server",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "opencv4",
+    "tesseract"
+  ]
+}
